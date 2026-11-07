@@ -1,0 +1,2 @@
+# Salati
+Islamic Prayer App
